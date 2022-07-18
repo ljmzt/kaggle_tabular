@@ -1,0 +1,333 @@
+00EB.  9.0	9.0
+  00EB-1	00EB-1	
+  median	median
+  00EB-2	time
+  time		diff
+		total-1
+		10WB-1
+		mode
+		20EB-1
+		10EB-1
+		20WB-1
+		
+
+00NB	7.5	7.3
+  00NB-1	00NB-1
+  median	median
+  time		diff
+  01NB-1	01NB-1
+  21SW-1 ?	time
+  day ?
+
+00SB	8.2	8.0
+  00SB-1	00SB-1
+  median	median
+  time		00NB-1
+  00NB-1	diff
+  21NE-1 ?	mode
+		time
+
+01EB	4.6	4.5
+  median	median	
+  01EB-1	01EB-1
+  01WB-1	01WB-1
+  11WB-1	11WB-1
+  11EB-1?	total-1
+		time
+
+01NB	4.7	4.4
+  median	median
+  01NB-1	01NB-1
+  01SB-2  	total-1
+		01SB-1
+
+01SB	4.0	3.8
+  median
+  01SB-1
+  01NB-2 ??
+
+01WB	8.6	8.3
+  median
+  01WB-1
+  11WB-1
+
+02EB	4.0	4.0
+  median	median
+  02EB-1	02EB-1
+  02WB-1 weak	02WB-1
+		total-1
+
+02NB	4.1	4.0
+  median	median
+  02NB-1	02NB-1
+  03NB-1	03NB-1
+		total-1
+
+02SB	4.7	4.7
+  02SB-1
+  median
+  02NB-1
+  02SB-2 weak
+  02NB-2 ?
+
+02WB	2.3	2.3
+  median
+  02WB-1
+  time
+  12WB-1
+  02WB-2 ??
+
+03EB	6.0	6.0
+  median	median
+  03EB-1	03EB-1
+  time		03WB-1
+  03WB-1	diff
+  03WB-2
+
+03NB	3.3	3.2
+  median
+  03NB-1
+  03SB-1
+  02SB-2 weak
+  03SB-2 weak
+
+03NE	5.5	5.4
+  median
+  03NE-1
+  03SW-1
+
+03SB	4.8	4.9
+  median	median
+  03SB-1	03SB-1
+  02SB-1	02SB-1
+		time
+
+03SW	5.0	5.0
+  median
+  03SW-1
+  13SW-1 weak  
+
+03WB	6.1	6.0
+  median
+  03WB-1
+  13WB-1
+
+10EB	6.5	6.4
+  median
+  10EB-1
+  10WB-1
+
+10NB	9.5	9.4
+  median
+  10NB-1
+  11NB-1
+
+10NE	8.5	8.7
+  10NE-1
+  median
+  time
+  10NE-2
+  12SB-1 ??
+
+10SB	7.8	8.0
+  median
+  10SB-1
+  20SB-1???
+
+10SW	9.0	8.7
+  10SW-1
+  median
+  time
+  21SW-1??
+
+10WB	4.5	4.4
+  median
+  10WB-1
+  time
+
+11EB	8.2	8.1
+  median
+  11EB-1
+  01EB-1
+  11WB-2
+  11WB-1
+  21WB-1
+  21WB-2?
+
+11NB	6.2	6.4
+  median
+  11NB-1
+  12NB-1
+  11NB-2
+
+11SB	6.0	6.0
+  median
+  11SB-1
+  11SB-2
+
+11WB	8.3	7.8
+  median
+  11WB-1
+  21WB-1
+
+12EB	4.9	4.8
+  median
+  12EB-1
+  02EB-1
+
+12NB	5.4	5.5
+  median
+  12NB-1
+  13NB-1
+  12NB-2
+
+12NE	6.3	6.0
+  12NE-1
+  median
+  12NE-2
+  time
+  13NE-1
+
+12SB	5.2	5.1
+  12SB-1
+  median
+  11SB-1
+  12SB-2
+
+12SW	5.2	5.2
+  12SW-1
+  median
+  time
+  12SW-2
+
+12WB	6.1	6.0
+  median
+  12WB-1
+  12EB-2
+
+13EB	5.5	5.4
+  13EB-1
+  median
+  03EB-1
+  time
+  22WB-1 weak
+  12SB-1 ?
+
+13NB	4.7	4.6
+  median
+  13NB-1
+
+13NE	7.6	7.6
+  median
+  13NE-1
+  13NE-2
+  time
+
+13SB	4.4	4.2
+  median
+  13SB-1
+  12SB-1
+
+13SW	7.4	7.4
+  median
+  13SW-1
+  21NE-1
+  13SW-2
+  12SW-1
+  21NE-2 weak
+
+13WB	6.0	6.0
+  13WB-1
+  median
+  13EB-1
+  13EB-2
+
+20EB
+  
+
+20NB
+
+20SB
+
+20WB
+
+21EB
+
+21NB
+
+21NE	
+  median
+  21NE-1
+  21NE-2
+  21NW-1
+
+21NW
+  median
+  21NW-1
+  21NE-1
+
+21SB
+
+21SE
+  median
+  21SE-1
+  03NE-1 ?
+
+21SW
+  median
+  21SW-1
+
+21WB
+
+22EB
+
+22NB
+
+22NE
+  median
+  22NE-1
+
+22NW
+  22NW-1
+  median
+  day
+  22NW-2
+
+22SB
+  
+
+22SE	9.4	9.8
+  22SE-1	22SE-1
+  median	median
+  time		diff
+		mode
+		time
+
+22SW
+  median
+  22SW
+
+22WB
+
+23EB
+
+23NB
+
+23NE
+  23NE-1
+  median
+  time
+  23NE-2
+
+23SB
+
+
+23SW
+  23SW-1
+  median
+  time
+  23SB-1
+  23SW-2
+  21NE-1 weak
+
+23WB
